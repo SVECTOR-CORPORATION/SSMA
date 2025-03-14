@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ssma
+Version: 0.1.0
+Summary: SSMA: Structured State Matrix Architecture library for efficient transformer-like models.
+Home-page: https://github.com/SVECTOR-CORPORATION/SSMA/
+Author: SVECTOR
+Author-email: research@svector.co.in
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: torch>=1.8
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: pyyaml

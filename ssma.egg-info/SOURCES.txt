@@ -1,0 +1,9 @@
+setup.py
+layers/__init__.py
+layers/hybrid_layer.py
+layers/ssma_layer.py
+ssma.egg-info/PKG-INFO
+ssma.egg-info/SOURCES.txt
+ssma.egg-info/dependency_links.txt
+ssma.egg-info/requires.txt
+ssma.egg-info/top_level.txt
