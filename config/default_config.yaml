@@ -1,0 +1,8 @@
+# Default configuration for SSMA
+d_model: 512
+num_layers: 6
+r: 64
+m: 256
+top_k: 32
+vocab_size: 10000
+max_seq_len: 512
