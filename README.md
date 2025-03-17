@@ -297,7 +297,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 ## Full Paper
 
 For the complete technical paper with rigorous proofs, extended experiments, and comprehensive discussions, please visit:  
-[Full Paper](SAMA.pdf)
+[Full Paper](/SSMA.pdf)
 
 ---
 
